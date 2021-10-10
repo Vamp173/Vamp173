@@ -1,13 +1,13 @@
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
 </head>
+
 ## Hi, [Yiran (Becky) Chen](https://github.com/Vamp173) is here.
 
 > Fresh Off the Boat. It’s very nice to meet you.
 
 - Team player.
 - Hobbyist.
-
 
 ---
 
